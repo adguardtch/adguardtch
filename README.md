@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi perfil de GitHub!
 
-Soy un apasionado de la tecnología, la música y el desarrollo creativo. Aquí encontrarás algunos de mis proyectos personales y otras ideas interesantes que voy compartiendo con el tiempo.
+Soy un apasionado de la tecnología, y el desarrollo creativo. Aquí encontrarás algunos de mis proyectos personales y otras ideas interesantes que voy compartiendo con el tiempo.
 
 ---
 
